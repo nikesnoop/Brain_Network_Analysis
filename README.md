@@ -9,6 +9,15 @@ Vahini Mahesh, Bio Medical Engineering, SSN College of Engineering, Chennai
 
 Yaswanth Udayakumar, Computer Science and Engineering, SSN College of Engineering, Chennai
 
+## Purpose of the research
+The human brain is a network where different parts/nodes of the brain are connected to each other. We had researched on the effects of meditation in the brain network.
+
+EEG values were taken from the brain befoe and after meditation and a graph of the network was produced. The the burnning times of each graph was calculated and it was proven that meditation helps information to pass on faster in the brain as the burning number is less. The burning number was calculated using an algorithm which was then implemented into code using Python 3.0 and the results were confirmed using the code.
+
+This research in the end helped us prove that meditation is in fact very helpful for humans as it helps information flow faster in our brain. 
+
+Thank you for spending your valuable time reading about the subject of our paper!
+
 ## Introduction
 The brain is the biological hardware from which all our thoughts, feelings, and behaviour
 emerge. It is therefore unsurprising that understanding the network organisation of the
@@ -99,13 +108,5 @@ k-i [xi], for some 1 ≤ i ≤ k. Therefore, we can see that (x1, x2 . . . xk) f
 burning sequence for G if and only if the following set equation holds:
 Nk-1 [x1] Nk-2 [x2] ∪ . . . ∪ N0 [xk] = V (G)
 
-## Purpose of the research
-The human brain is a network where different parts/nodes of the brain are connected to each other. We had researched on the effects of meditation in the brain network.
-
-EEG values were taken from the brain befoe and after meditation and a graph of the network was produced. The the burnning times of each graph was calculated and it was proven that meditation helps information to pass on faster in the brain as the burning number is less. The burning number was calculated using an algorithm which was then implemented into code using Python 3.0 and the results were confirmed using the code.
-
-This research in the end helped us prove that meditation is in fact very helpful for humans as it helps information flow faster in our brain. 
-
-Thank you for spending your valuable time reading about the subject of our paper!
 
 **Disclaimer:** For privacy reasons, the algorithm of the code cannot be released publicly and so are the other parts of the paper.
